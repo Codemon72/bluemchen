@@ -37,6 +37,7 @@ body {
   margin: 1rem;
   position: relative;
   transition: flex 0.7s ease-in-out;
+  -webkit-transition: all 700ms ease-in-out;
 }
 @media only screen and (max-width: 860px) {
   .panel + .panel {
